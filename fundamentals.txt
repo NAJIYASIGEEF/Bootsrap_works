@@ -1,0 +1,16 @@
+CSS Framework => Bootstrap
+
+Bootstrap consists of CSS class collections
+
+getbootstrap.com
+
+grid width=>
+        - xs->extra small
+        - sm->small
+        - md->medium
+        - lg->large 
+        - xl->extra large
+        - xxl
+
+
+carousel
